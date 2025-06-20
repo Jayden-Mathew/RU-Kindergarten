@@ -4,10 +4,6 @@ package kindergarten;
  * You're a kindergarten teacher and you have many students to teach.
  * You'll supervise students when they line up, when they're in class,
  * and when they're playing musical chairs!
- * 
- * @author Ethan Chou
- * @author Kal Pandit
- * @author Maksims Kurjanovics Kravcenko
  */
 public class Classroom {
     private SNode studentsInLine; // when students are in line - refers to the front of a singly linked list
